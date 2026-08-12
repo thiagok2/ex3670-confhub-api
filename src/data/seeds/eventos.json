@@ -1,0 +1,326 @@
+[
+  {
+    "id": 1,
+    "titulo": "Palestra de Redes 1",
+    "descricao": "Atividade prática sobre computação gráfica, com foco em problemas reais do mercado.",
+    "cidade": "Aracaju",
+    "data": "2026-10-03",
+    "vagas": 30,
+    "palestranteId": 23
+  },
+  {
+    "id": 2,
+    "titulo": "Palestra de Engenharia de Software 2",
+    "descricao": "Atividade prática sobre engenharia de software, com foco em problemas reais do mercado.",
+    "cidade": "Aracaju",
+    "data": "2026-11-13",
+    "vagas": 40,
+    "palestranteId": 19
+  },
+  {
+    "id": 3,
+    "titulo": "Painel de Redes 3",
+    "descricao": "Atividade prática sobre inteligência artificial, com foco em problemas reais do mercado.",
+    "cidade": "Fortaleza",
+    "data": "2026-09-25",
+    "vagas": 50,
+    "palestranteId": 9
+  },
+  {
+    "id": 4,
+    "titulo": "Palestra de Engenharia de Software 4",
+    "descricao": "Atividade prática sobre engenharia de software, com foco em problemas reais do mercado.",
+    "cidade": "Natal",
+    "data": "2026-10-26",
+    "vagas": 50,
+    "palestranteId": 1
+  },
+  {
+    "id": 5,
+    "titulo": "Painel de Segurança 5",
+    "descricao": "Atividade prática sobre segurança, com foco em problemas reais do mercado.",
+    "cidade": "Natal",
+    "data": "2026-10-14",
+    "vagas": 60,
+    "palestranteId": 6
+  },
+  {
+    "id": 6,
+    "titulo": "Workshop de Redes 6",
+    "descricao": "Atividade prática sobre computação gráfica, com foco em problemas reais do mercado.",
+    "cidade": "João Pessoa",
+    "data": "2026-09-19",
+    "vagas": 30,
+    "palestranteId": 7
+  },
+  {
+    "id": 7,
+    "titulo": "Painel de Redes 7",
+    "descricao": "Atividade prática sobre engenharia de software, com foco em problemas reais do mercado.",
+    "cidade": "Natal",
+    "data": "2026-11-18",
+    "vagas": 50,
+    "palestranteId": 6
+  },
+  {
+    "id": 8,
+    "titulo": "Painel de Inteligência Artificial 8",
+    "descricao": "Atividade prática sobre engenharia de software, com foco em problemas reais do mercado.",
+    "cidade": "Recife",
+    "data": "2026-09-13",
+    "vagas": 50,
+    "palestranteId": 6
+  },
+  {
+    "id": 9,
+    "titulo": "Minicurso de Engenharia de Software 9",
+    "descricao": "Atividade prática sobre inteligência artificial, com foco em problemas reais do mercado.",
+    "cidade": "Salvador",
+    "data": "2026-09-23",
+    "vagas": 50,
+    "palestranteId": 1
+  },
+  {
+    "id": 10,
+    "titulo": "Workshop de Front-end 10",
+    "descricao": "Atividade prática sobre inteligência artificial, com foco em problemas reais do mercado.",
+    "cidade": "Aracaju",
+    "data": "2026-09-11",
+    "vagas": 60,
+    "palestranteId": 14
+  },
+  {
+    "id": 11,
+    "titulo": "Oficina de Front-end 11",
+    "descricao": "Atividade prática sobre front-end, com foco em problemas reais do mercado.",
+    "cidade": "Fortaleza",
+    "data": "2026-09-17",
+    "vagas": 40,
+    "palestranteId": 20
+  },
+  {
+    "id": 12,
+    "titulo": "Minicurso de Engenharia de Software 12",
+    "descricao": "Atividade prática sobre engenharia de software, com foco em problemas reais do mercado.",
+    "cidade": "São Paulo",
+    "data": "2026-10-16",
+    "vagas": 60,
+    "palestranteId": 22
+  },
+  {
+    "id": 13,
+    "titulo": "Painel de DevOps 13",
+    "descricao": "Atividade prática sobre engenharia de software, com foco em problemas reais do mercado.",
+    "cidade": "Fortaleza",
+    "data": "2026-10-01",
+    "vagas": 60,
+    "palestranteId": 12
+  },
+  {
+    "id": 14,
+    "titulo": "Oficina de DevOps 14",
+    "descricao": "Atividade prática sobre front-end, com foco em problemas reais do mercado.",
+    "cidade": "João Pessoa",
+    "data": "2026-09-23",
+    "vagas": 50,
+    "palestranteId": 14
+  },
+  {
+    "id": 15,
+    "titulo": "Workshop de Inteligência Artificial 15",
+    "descricao": "Atividade prática sobre engenharia de software, com foco em problemas reais do mercado.",
+    "cidade": "Recife",
+    "data": "2026-11-03",
+    "vagas": 30,
+    "palestranteId": 4
+  },
+  {
+    "id": 16,
+    "titulo": "Workshop de Inteligência Artificial 16",
+    "descricao": "Atividade prática sobre engenharia de software, com foco em problemas reais do mercado.",
+    "cidade": "Recife",
+    "data": "2026-11-21",
+    "vagas": 50,
+    "palestranteId": 9
+  },
+  {
+    "id": 17,
+    "titulo": "Oficina de Banco de Dados 17",
+    "descricao": "Atividade prática sobre front-end, com foco em problemas reais do mercado.",
+    "cidade": "Aracaju",
+    "data": "2026-10-12",
+    "vagas": 30,
+    "palestranteId": 1
+  },
+  {
+    "id": 18,
+    "titulo": "Workshop de Redes 18",
+    "descricao": "Atividade prática sobre segurança, com foco em problemas reais do mercado.",
+    "cidade": "Recife",
+    "data": "2026-11-19",
+    "vagas": 20,
+    "palestranteId": 10
+  },
+  {
+    "id": 19,
+    "titulo": "Minicurso de Banco de Dados 19",
+    "descricao": "Atividade prática sobre front-end, com foco em problemas reais do mercado.",
+    "cidade": "Recife",
+    "data": "2026-10-24",
+    "vagas": 20,
+    "palestranteId": 11
+  },
+  {
+    "id": 20,
+    "titulo": "Workshop de Front-end 20",
+    "descricao": "Atividade prática sobre engenharia de software, com foco em problemas reais do mercado.",
+    "cidade": "São Paulo",
+    "data": "2026-10-21",
+    "vagas": 60,
+    "palestranteId": 8
+  },
+  {
+    "id": 21,
+    "titulo": "Oficina de Computação Gráfica 21",
+    "descricao": "Atividade prática sobre engenharia de software, com foco em problemas reais do mercado.",
+    "cidade": "Maceió",
+    "data": "2026-10-09",
+    "vagas": 40,
+    "palestranteId": 9
+  },
+  {
+    "id": 22,
+    "titulo": "Oficina de Inteligência Artificial 22",
+    "descricao": "Atividade prática sobre redes, com foco em problemas reais do mercado.",
+    "cidade": "Natal",
+    "data": "2026-10-07",
+    "vagas": 20,
+    "palestranteId": 12
+  },
+  {
+    "id": 23,
+    "titulo": "Workshop de Front-end 23",
+    "descricao": "Atividade prática sobre front-end, com foco em problemas reais do mercado.",
+    "cidade": "Aracaju",
+    "data": "2026-09-24",
+    "vagas": 40,
+    "palestranteId": 21
+  },
+  {
+    "id": 24,
+    "titulo": "Oficina de Banco de Dados 24",
+    "descricao": "Atividade prática sobre engenharia de software, com foco em problemas reais do mercado.",
+    "cidade": "São Paulo",
+    "data": "2026-10-27",
+    "vagas": 50,
+    "palestranteId": 7
+  },
+  {
+    "id": 25,
+    "titulo": "Palestra de Computação Gráfica 25",
+    "descricao": "Atividade prática sobre devops, com foco em problemas reais do mercado.",
+    "cidade": "Natal",
+    "data": "2026-09-18",
+    "vagas": 50,
+    "palestranteId": 24
+  },
+  {
+    "id": 26,
+    "titulo": "Workshop de Front-end 26",
+    "descricao": "Atividade prática sobre engenharia de software, com foco em problemas reais do mercado.",
+    "cidade": "São Paulo",
+    "data": "2026-09-18",
+    "vagas": 20,
+    "palestranteId": 13
+  },
+  {
+    "id": 27,
+    "titulo": "Palestra de Inteligência Artificial 27",
+    "descricao": "Atividade prática sobre inteligência artificial, com foco em problemas reais do mercado.",
+    "cidade": "João Pessoa",
+    "data": "2026-10-17",
+    "vagas": 50,
+    "palestranteId": 18
+  },
+  {
+    "id": 28,
+    "titulo": "Painel de Computação Gráfica 28",
+    "descricao": "Atividade prática sobre inteligência artificial, com foco em problemas reais do mercado.",
+    "cidade": "São Paulo",
+    "data": "2026-09-27",
+    "vagas": 50,
+    "palestranteId": 4
+  },
+  {
+    "id": 29,
+    "titulo": "Minicurso de Redes 29",
+    "descricao": "Atividade prática sobre engenharia de software, com foco em problemas reais do mercado.",
+    "cidade": "Salvador",
+    "data": "2026-10-26",
+    "vagas": 60,
+    "palestranteId": 8
+  },
+  {
+    "id": 30,
+    "titulo": "Minicurso de Banco de Dados 30",
+    "descricao": "Atividade prática sobre redes, com foco em problemas reais do mercado.",
+    "cidade": "Maceió",
+    "data": "2026-10-08",
+    "vagas": 30,
+    "palestranteId": 18
+  },
+  {
+    "id": 31,
+    "titulo": "Painel de Inteligência Artificial 31",
+    "descricao": "Atividade prática sobre redes, com foco em problemas reais do mercado.",
+    "cidade": "Salvador",
+    "data": "2026-09-23",
+    "vagas": 50,
+    "palestranteId": 5
+  },
+  {
+    "id": 32,
+    "titulo": "Painel de Redes 32",
+    "descricao": "Atividade prática sobre banco de dados, com foco em problemas reais do mercado.",
+    "cidade": "Aracaju",
+    "data": "2026-10-10",
+    "vagas": 30,
+    "palestranteId": 15
+  },
+  {
+    "id": 33,
+    "titulo": "Minicurso de Front-end 33",
+    "descricao": "Atividade prática sobre inteligência artificial, com foco em problemas reais do mercado.",
+    "cidade": "Aracaju",
+    "data": "2026-10-01",
+    "vagas": 60,
+    "palestranteId": 20
+  },
+  {
+    "id": 34,
+    "titulo": "Workshop de DevOps 34",
+    "descricao": "Atividade prática sobre computação gráfica, com foco em problemas reais do mercado.",
+    "cidade": "Maceió",
+    "data": "2026-11-10",
+    "vagas": 20,
+    "palestranteId": 16
+  },
+  {
+    "id": 35,
+    "titulo": "Minicurso de Redes 35",
+    "descricao": "Atividade prática sobre banco de dados, com foco em problemas reais do mercado.",
+    "cidade": "Recife",
+    "data": "2026-11-22",
+    "vagas": 50,
+    "palestranteId": 1
+  },
+  {
+    "id": 36,
+    "titulo": "Minicurso de Inteligência Artificial 36",
+    "descricao": "Atividade prática sobre front-end, com foco em problemas reais do mercado.",
+    "cidade": "Salvador",
+    "data": "2026-10-21",
+    "vagas": 40,
+    "palestranteId": 21
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "name": "confhub-api",
+  "version": "1.4.2",
+  "description": "ConfHub — API de gestão de eventos acadêmicos (backend REST)",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}

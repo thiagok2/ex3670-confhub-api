@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nome": "Ana Lima",
+    "email": "ana.lima@confhub.dev",
+    "senha": "ifal2026",
+    "papel": "organizadora"
+  },
+  {
+    "id": 2,
+    "nome": "Bruno Costa",
+    "email": "bruno.costa@confhub.dev",
+    "senha": "ifal2026",
+    "papel": "organizador"
+  },
+  {
+    "id": 3,
+    "nome": "Carla Souza",
+    "email": "carla.souza@confhub.dev",
+    "senha": "ifal2026",
+    "papel": "assistente"
+  }
+]
