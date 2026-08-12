@@ -18,7 +18,6 @@ function listar(req, res) {
     resultado = resultado.filter((e) => vagasRestantes(e) > 0);
   }
 
-  res.json(resultado.map((e) => ({ ...e, vagasRestantes: vagasRestantes(e) })));
 }
 
 // GET /eventos/:id
