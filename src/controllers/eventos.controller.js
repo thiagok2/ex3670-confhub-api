@@ -24,7 +24,7 @@ function listar(req, res) {
     }
   }
 
-  res.json(resultado.map((e) => ({ ...e, vagas: vagasRestantes(e) })));
+  res.json(resultado.map((e) => ({ ...e, vagasRestantes: vagasRestantes(e) })));
 }
 
 // GET /eventos/:id
