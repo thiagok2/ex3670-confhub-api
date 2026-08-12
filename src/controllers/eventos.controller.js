@@ -14,10 +14,17 @@ function listar(req, res) {
     resultado = resultado.filter((e) => e.cidade.toLowerCase() === cidade);
   }
 
-  if (req.query.disponiveis === "true") {
-    resultado = resultado.filter((e) => vagasRestantes(e) > 0);
+  const disponiveis = req.query.disponiveis;
+  if (disponiveis !== undefined) {
+    const valor = String(disponiveis).trim().toLowerCase();
+    if (valor === "true") {
+      resultado = resultado.filter((e) => vagasRestantes(e) > 0);
+    } else if (valor === "false") {
+      resultado = resultado.filter((e) => vagasRestantes(e) <= 0);
+    }
   }
 
+  res.json(resultado.map((e) => ({ ...e, vagasRestantes: vagasRestantes(e) })));
 }
 
 // GET /eventos/:id
