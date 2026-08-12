@@ -15,7 +15,7 @@ function listar(req, res) {
   }
 
   if (req.query.disponiveis === "true") {
-    resultado = resultado.filter((e) => e.vagas > 0);
+    resultado = resultado.filter((e) => vagasRestantes(e) > 0);
   }
 
   res.json(resultado.map((e) => ({ ...e, vagasRestantes: vagasRestantes(e) })));
